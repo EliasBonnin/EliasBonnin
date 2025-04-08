@@ -1,4 +1,28 @@
-## Hi there 👋
+# Bonnin Elias Esteban
+**Edad:** 26 años.
+
+**Nacionalidad:** Argentina.
+
+**Actividad:** Estudiante de Ing. en Informática.
+
+## Perfil Profesional y Conocimientos
+
+Estudiante de Ing. en Informática con habilidades en análisis y resolución de problemas, enfocado en la calidad y eficiencia del desarrollo de software. Experiencia en metodologías ágiles y gestión de cambios. Conocimientos en redes de computadoras, seguridad informática y diseño de sistemas.
+
+## Perfil Educativo
+
+Ingeniería en Informática - Universidad Gastón Dachary.   ( 2017 - PRESENTE)
+
+Actualmente Cursando el 5to año de Carrera,
+
+### Certificaciones
+
+SCRUMstudy Scrum Fundamentals Certified.
+
+
+
+
+
 
 <!--
 **EliasBonnin/EliasBonnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
