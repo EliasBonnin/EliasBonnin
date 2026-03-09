@@ -3,7 +3,7 @@
 
 **Nacionalidad:** Argentina.
 
-**Actividad:** Estudiante de Ing. en Informática. Junta y Clasificacion Rama Primaria
+**Actividad:** Estudiante de Ing. en Informática.
 
 ## Perfil Profesional y Conocimientos
 
